@@ -15,7 +15,7 @@ The Login Page is a simple web application that requires users to enter their em
   ### Open the project:
   #### Open index.html in your preferred web browser.
   ### Run the application:
-  - Open index.html in a web browser to view and use the countdown timer.
+  - Open index.html in a web browser to view and use the login page.
   - Enter your email and password to enable the submit button.
 
 
